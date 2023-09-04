@@ -19,7 +19,7 @@
     "@sap/cds-hana": "^2"
   },
   "devDependencies": {
-    "@sap/ux-specification": "^1.102.1",
+    "@sap/ux-specification": "^1.108.13",
     "sqlite3": "^5.0.4"
   },
   "scripts": {
